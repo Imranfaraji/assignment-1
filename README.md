@@ -35,7 +35,7 @@ unknown হলো নিরাপদ version of any।
 
 যেমন:-
 
-let data:unknown;
+let data: unknown;
 data='Hello';
 if(typeof data ==='string'){
     console.log(data.toUpperCade())
